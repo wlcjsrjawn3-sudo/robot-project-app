@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "https://sngtbfxkjgscbuewzwyw.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNuZ3RiZnhramdzY2J1ZXd6d3l3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQzODUxODEsImV4cCI6MjA4OTk2MTE4MX0.OxglhXjQ6k7_FEri5LB0ajGIwT-sAUpm5bW392Fn6-w",
+    "GEMINI_API_KEY": "mock_gemini_key"
+  },
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_SUPABASE_URL": "https://sngtbfxkjgscbuewzwyw.supabase.co",
+      "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNuZ3RiZnhramdzY2J1ZXd6d3l3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQzODUxODEsImV4cCI6MjA4OTk2MTE4MX0.OxglhXjQ6k7_FEri5LB0ajGIwT-sAUpm5bW392Fn6-w",
+      "GEMINI_API_KEY": "mock_gemini_key"
+    }
+  }
+}
